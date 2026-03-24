@@ -24,4 +24,4 @@ Repositorio para enviar trabajos
   la descentralización, ya que el proyecto no depende de una sola máquina sino de servidores remotos. También se observa cómo funciona
   la consistencia y sincronización de datos a través del control de versiones, asegurando que los cambios se reflejen correctamente.
 
-5. 
+5. https://sergioa-ar.github.io/Sistemas-Distribuidos/
